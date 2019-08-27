@@ -1,0 +1,82 @@
+{"projects": 
+    [{ 
+        "title": "Basic Unity Boat Game",
+        "imageUrl": "./images/boat_game_asp.png",
+        "description"  : "Small game made for one of the courses",
+        "status" : "Done",
+        "projectUrl" : "https://gitlab.com/meincrab/unityProject"
+    },{ 
+        "title": "Basic Unity Survival 3D game",
+        "imageUrl": "./images/survival_asp.png",
+        "description"  : "Small game made for one of the courses",
+        "status" : "Done",
+        "projectUrl" : "https://gitlab.com/meincrab/unityProject"
+    },{
+        "title": "Student Schedule App",
+        "imageUrl": "./images/scheduler.png",
+        "description"  : "Timetable where student can track his own schedule, courses",
+        "status" : "Done",
+        "projectUrl" : "https://gitlab.com/meincrab/webHarkka"
+    },{
+        "title" : "olioSolitaire",
+        "imageUrl": "./images/solitaire_asp.png",
+        "description"  : "Implementation of Solitaire game using OOP and WPF",
+        "status" : "Done",
+        "projectUrl" : "https://gitlab.com/meincrab/olioSolitaire"
+    },{
+        "title" : "Notemap",
+        "imageUrl": "./images/notemap_asp.png",
+        "description"  : "Scheduler + map tracking",
+        "status" : "Done",
+        "projectUrl" : "https://gitlab.com/meincrab/Notemap"
+    },{
+        "title" : "Android Image Parser",
+        "imageUrl": "./images/imageParser_asp.png",
+        "description"  : "You give it a link, it gives you all pictures from page to download",
+        "status" : "Done",
+        "projectUrl" : "https://gitlab.com/meincrab/AndroidProject"
+        
+    },{
+        "title" : "Arduino Music Visualisation",
+        "imageUrl": "./images/eagle.jpg",
+        "description"  : "Led Strip + arduino + some code = lots of fun",
+        "status" : "Done",
+        "projectUrl" : ""
+        
+    },{
+        "title" : "Single Effect Demo for Assembly",
+        "imageUrl": "./images/demo_asp.png",
+        "description"  : "Led Strip + arduino + some code = lots of fun",
+        "status" : "Done",
+        "projectUrl" : ""
+        
+    },{
+        "title" : "React 2048",
+        "imageUrl": "./images/2048_src.PNG",
+        "description"  : "Led Strip + arduino + some code = lots of fun",
+        "status" : "WIP",
+        "projectUrl" : ""        
+    },{
+        "title" : "NodeDictionary",
+        "imageUrl": "./images/eagle.jpg",
+        "description"  : "Led Strip + arduino + some code = lots of fun",
+        "status" : "WIP",
+        "projectUrl" : ""        
+    }
+    ,{
+        "title" : "ElBucatinoCafe",
+        "imageUrl": "./images/ristorante.PNG",
+        "description"  : "Led Strip + arduino + some code = lots of fun",
+        "status" : "WIP",
+        "projectUrl" : "https://gitlab.com/meincrab/cafe_sites"        
+    },
+    {
+        "title" : "Prezelz shop",
+        "imageUrl": "./images/pretzels.PNG",
+        "description"  : "Led Strip + arduino + some code = lots of fun",
+        "status" : "WIP",
+        "projectUrl" : "https://gitlab.com/meincrab/cafe_sites"        
+    }
+
+]
+}

@@ -1,0 +1,29 @@
+.projectList {
+    max-width: 90%;
+    margin: auto;
+    background-color: #F3E7EF;
+    margin-bottom: 2em;
+}
+a {
+    color:black;
+}
+h1 {
+    text-align: center;
+}
+.projectBox {
+    overflow: hidden;
+    margin-left: 1em;
+}
+
+
+.projectImage {
+    width: 10em;
+    height: auto;
+    float: left;
+    border-radius: 50%;
+}
+
+.slick-arrow{
+    background-color: #7F3F92;
+    border-radius: 50%;
+}
