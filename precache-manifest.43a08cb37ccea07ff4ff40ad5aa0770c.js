@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/demo_asp.dea7a556.png"
   },
   {
-    "revision": "241185ba899e58319424",
+    "revision": "f0282e9acb6cef337d85",
     "url": "/static/css/main.803ec0cd.chunk.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
-  },
-  {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "f079d7c357e2dd6fb2dd5c60f0b0ac17",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/static/media/boat_game_asp.76faf2d9.png"
   },
   {
-    "revision": "241185ba899e58319424",
-    "url": "/static/js/main.acfa12e3.chunk.js"
+    "revision": "f0282e9acb6cef337d85",
+    "url": "/static/js/main.63a0a89c.chunk.js"
   },
   {
     "revision": "502ccf90aed8cb3da81ae0f1e1bdda07",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.0e750856.chunk.css"
   },
   {
-    "revision": "b68f7949d18bc9777a373b80bff5ee87",
+    "revision": "c47630450baeb994d570163d44d1182b",
     "url": "/index.html"
   }
 ];
