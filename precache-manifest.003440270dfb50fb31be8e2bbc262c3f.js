@@ -28,20 +28,20 @@ self.__precacheManifest = [
     "url": "/meincrab/portfolio/static/media/pictureMe.76b03527.jpeg"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/meincrab/portfolio/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/meincrab/portfolio/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/meincrab/portfolio/static/media/slick.d41f55a7.ttf"
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/meincrab/portfolio/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/meincrab/portfolio/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/meincrab/portfolio/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "f079d7c357e2dd6fb2dd5c60f0b0ac17",
