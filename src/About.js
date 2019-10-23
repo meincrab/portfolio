@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './About.css';
 import profilePic from './images/pictureMe.jpeg';
-import axios from 'axios';
 
 
 class About extends Component {

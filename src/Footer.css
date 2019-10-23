@@ -5,10 +5,11 @@
     float: left;
     min-width: 100%;
 }
+br {
+    display:block;
+    margin: 10px 0;
+}
 .contactInfo a{
-    clear: both;
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    margin-left: 25%;
+    text-align: center;
+    line-height: 1px;
 }

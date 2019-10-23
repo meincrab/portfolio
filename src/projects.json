@@ -37,13 +37,6 @@
         "projectUrl" : "https://gitlab.com/meincrab/AndroidProject"
         
     },{
-        "title" : "Arduino Music Visualisation",
-        "imageUrl": "./images/eagle.jpg",
-        "description"  : "Led Strip + arduino + some code = lots of fun",
-        "status" : "Done",
-        "projectUrl" : ""
-        
-    },{
         "title" : "Single Effect Demo for Assembly",
         "imageUrl": "./images/demo_asp.png",
         "description"  : "Led Strip + arduino + some code = lots of fun",

@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import projectData from './projects.json';
 import Slider from "react-slick";
 import '../node_modules/slick-carousel/slick/slick.css';
